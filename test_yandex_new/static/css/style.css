@@ -1,0 +1,13 @@
+.center {
+    display: flex;
+    justify-content: center;
+}
+.gl {
+    padding: 20px;
+}
+.bgp {
+    background-color: burlywood;
+}
+.s {
+    width: 100%;
+}

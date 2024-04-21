@@ -1,0 +1,18 @@
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+.gl {
+    padding: 20px;
+}
+.bgp {
+    background-color: burlywood;
+}
+.s {
+    width: 100%;
+}
+.www {
+    min-width: 1000px;
+    max-width: 1000px;
+}
